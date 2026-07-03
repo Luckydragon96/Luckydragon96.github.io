@@ -1,0 +1,33 @@
+﻿title: "Your Name"
+description: "Academic homepage of Your Name"
+url: "https://Luckydragon96.github.io"
+baseurl: ""
+lang: "en"
+
+author:
+  name: "Your Name"
+  role: "Ph.D. Candidate / Researcher"
+  affiliation: "Your University"
+  location: "City, Country"
+  email: "your.email@example.com"
+  github: "Luckydragon96"
+  google_scholar: ""
+  orcid: ""
+  linkedin: ""
+
+research_interests:
+  - Operations Research
+  - Optimization
+  - Machine Learning
+  - Decision Analytics
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+
