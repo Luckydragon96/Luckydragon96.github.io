@@ -16,11 +16,11 @@ permalink: /cv/
     <ul class="item-list">
       <li>
         <strong>Ph.D. in Your Discipline.</strong>
-        <span>Your University, 2023-present.</span>
+        <span>Dalian University of Technology, 2023-present.</span>
       </li>
       <li>
         <strong>M.S. in Your Discipline.</strong>
-        <span>Your University, 2020-2023.</span>
+        <span>Dalian University of Technology, 2020-2023.</span>
       </li>
     </ul>
   </article>
@@ -30,7 +30,7 @@ permalink: /cv/
     <ul class="item-list">
       <li>
         <strong>Outstanding Graduate Student Award.</strong>
-        <span>Your University, 2026.</span>
+        <span>Dalian University of Technology, 2026.</span>
       </li>
       <li>
         <strong>Conference Travel Grant.</strong>

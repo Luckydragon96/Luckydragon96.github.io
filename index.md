@@ -11,7 +11,7 @@ title: Home
     <p class="eyebrow">{{ site.author.role }}</p>
     <h1>{{ site.author.name }}</h1>
     <p class="lead">
-      I am a researcher at {{ site.author.affiliation }} working on optimization, analytics,
+      I am a researcher at <a href="{{ site.author.affiliation_url }}">{{ site.author.affiliation }}</a> working on optimization, analytics,
       and decision-making methods for complex operational systems.
     </p>
     <div class="hero__actions">
@@ -45,11 +45,11 @@ title: Home
     <ul class="item-list">
       <li>
         <strong>Paper Title on Optimization and Decision Analytics.</strong>
-        <span>Your Name, Coauthor Name. Journal or Conference, 2026.</span>
+        <span>Xiaolong Li, Coauthor Name. Journal or Conference, 2026.</span>
       </li>
       <li>
         <strong>Learning-Enhanced Algorithms for Complex Scheduling Problems.</strong>
-        <span>Your Name, Coauthor Name. Working paper.</span>
+        <span>Xiaolong Li, Coauthor Name. Working paper.</span>
       </li>
     </ul>
     <a class="text-link" href="{{ '/publications/' | relative_url }}">All publications</a>

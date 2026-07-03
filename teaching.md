@@ -14,11 +14,11 @@ permalink: /teaching/
   <ul class="item-list">
     <li>
       <strong>Teaching Assistant, Operations Research.</strong>
-      <span>Your University, 2026.</span>
+      <span>Dalian University of Technology, 2026.</span>
     </li>
     <li>
       <strong>Workshop: Reproducible Optimization Experiments.</strong>
-      <span>Your University, 2025.</span>
+      <span>Dalian University of Technology, 2025.</span>
     </li>
   </ul>
 </section>

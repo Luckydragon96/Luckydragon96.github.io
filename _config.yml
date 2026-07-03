@@ -1,18 +1,19 @@
-﻿title: "Your Name"
-description: "Academic homepage of Your Name"
+title: "Xiaolong Li"
+description: "Academic homepage of Xiaolong Li"
 url: "https://Luckydragon96.github.io"
 baseurl: ""
 lang: "en"
 
 author:
-  name: "Your Name"
+  name: "Xiaolong Li"
   role: "Ph.D. Candidate / Researcher"
-  affiliation: "Your University"
-  location: "City, Country"
-  email: "your.email@example.com"
+  affiliation: "Dalian University of Technology"
+  affiliation_url: "https://scholar.google.com.hk/citations?view_op=view_org&hl=zh-CN&org=16416005854777279154"
+  location: "Dalian, China"
+  email: "luckydragon2023@163.com"
   github: "Luckydragon96"
-  google_scholar: ""
-  orcid: ""
+  google_scholar: "https://scholar.google.com.hk/citations?user=sdkmLEYAAAAJ&hl=zh-CN"
+  orcid: "https://orcid.org/0000-0001-7994-5581"
   linkedin: ""
 
 research_interests:
@@ -29,5 +30,3 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor
-
-

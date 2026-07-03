@@ -15,7 +15,7 @@ permalink: /publications/
   <ol class="publication-list">
     <li>
       <strong>Paper Title on Optimization and Decision Analytics.</strong>
-      Your Name, Coauthor Name. <em>Journal Name</em>, 2026.
+      Xiaolong Li, Coauthor Name. <em>Journal Name</em>, 2026.
       <div class="publication-links">
         <a href="#">PDF</a>
         <a href="#">Code</a>
@@ -24,7 +24,7 @@ permalink: /publications/
     </li>
     <li>
       <strong>Exact Algorithms for Large-Scale Operational Planning.</strong>
-      Your Name, Coauthor Name. <em>Journal Name</em>, 2025.
+      Xiaolong Li, Coauthor Name. <em>Journal Name</em>, 2025.
       <div class="publication-links">
         <a href="#">PDF</a>
         <a href="#">BibTeX</a>
@@ -38,7 +38,7 @@ permalink: /publications/
   <ol class="publication-list">
     <li>
       <strong>Learning-Enhanced Algorithms for Complex Scheduling Problems.</strong>
-      Your Name, Coauthor Name. Working paper.
+      Xiaolong Li, Coauthor Name. Working paper.
     </li>
   </ol>
 </section>
