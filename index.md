@@ -11,8 +11,9 @@ title: Home
     <p class="eyebrow">{{ site.author.role }}</p>
     <h1>{{ site.author.name }}</h1>
     <p class="lead">
-      I am a researcher at <a href="{{ site.author.affiliation_url }}">{{ site.author.affiliation }}</a> working on optimization, analytics,
-      and decision-making methods for complex operational systems.
+      I am a postdoctoral researcher at the School of Economics and Management,
+      Dalian University of Technology. I received my Ph.D. in Control Science and
+      Engineering from Northeastern University in Shenyang, China.
     </p>
     <div class="hero__actions">
       <a class="button button--primary" href="{{ '/cv/' | relative_url }}">View CV</a>
@@ -33,8 +34,9 @@ title: Home
   </div>
   <p>
     My current work focuses on mathematical modeling, exact and heuristic algorithms,
-    and data-driven decision support. I am especially interested in problems where
-    rigorous optimization methods meet practical industrial constraints.
+    and data-driven decision support for complex operational systems. I am especially
+    interested in problems where rigorous optimization methods meet practical
+    industrial constraints.
   </p>
 </section>
 

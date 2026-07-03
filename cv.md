@@ -15,26 +15,18 @@ permalink: /cv/
     <h2>Education</h2>
     <ul class="item-list">
       <li>
-        <strong>Ph.D. in Your Discipline.</strong>
-        <span>Dalian University of Technology, 2023-present.</span>
-      </li>
-      <li>
-        <strong>M.S. in Your Discipline.</strong>
-        <span>Dalian University of Technology, 2020-2023.</span>
+        <strong>Ph.D. in Control Science and Engineering.</strong>
+        <span>Northeastern University, Shenyang, China.</span>
       </li>
     </ul>
   </article>
 
   <article>
-    <h2>Awards</h2>
+    <h2>Appointments</h2>
     <ul class="item-list">
       <li>
-        <strong>Outstanding Graduate Student Award.</strong>
-        <span>Dalian University of Technology, 2026.</span>
-      </li>
-      <li>
-        <strong>Conference Travel Grant.</strong>
-        <span>Conference Name, 2025.</span>
+        <strong>Postdoctoral Researcher.</strong>
+        <span>School of Economics and Management, Dalian University of Technology, Dalian, China.</span>
       </li>
     </ul>
   </article>
