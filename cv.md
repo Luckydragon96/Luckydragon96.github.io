@@ -22,9 +22,9 @@ permalink: /cv/
         <div class="cv-date">2021.09-2025.06</div>
         <div class="cv-entry__body">
           <strong>Ph.D. in Control Science and Engineering</strong>
-          <span>Northeastern University</span>
-          <span>Shenyang, China</span>
-          <span>Advisor: Prof. Yang Yu</span>
+          <div class="cv-meta">Northeastern University</div>
+          <div class="cv-meta">Shenyang, China</div>
+          <div class="cv-meta cv-advisor">Advisor: Prof. Yang Yu</div>
         </div>
       </div>
 
@@ -32,8 +32,8 @@ permalink: /cv/
         <div class="cv-date">2015-2019</div>
         <div class="cv-entry__body">
           <strong>B.Eng. in Automation</strong>
-          <span>Qingdao University</span>
-          <span>Qingdao, China</span>
+          <div class="cv-meta">Qingdao University</div>
+          <div class="cv-meta">Qingdao, China</div>
         </div>
       </div>
     </div>
@@ -50,9 +50,9 @@ permalink: /cv/
         <div class="cv-date">2025.07-present</div>
         <div class="cv-entry__body">
           <strong>Postdoctoral Researcher</strong>
-          <span>School of Economics and Management</span>
-          <span>Dalian University of Technology</span>
-          <span>Dalian, China</span>
+          <div class="cv-meta">School of Economics and Management</div>
+          <div class="cv-meta">Dalian University of Technology</div>
+          <div class="cv-meta">Dalian, China</div>
         </div>
       </div>
     </div>

@@ -277,7 +277,7 @@ p {
 }
 
 .cv-entry__body strong,
-.cv-entry__body span {
+.cv-meta {
   display: block;
 }
 
@@ -287,9 +287,14 @@ p {
   line-height: 1.3;
 }
 
-.cv-entry__body span {
+.cv-meta {
   color: var(--muted);
   margin-top: 4px;
+}
+
+.cv-advisor {
+  color: var(--accent-strong);
+  font-weight: 750;
 }
 .tag-list span {
   border: 1px solid var(--line);
