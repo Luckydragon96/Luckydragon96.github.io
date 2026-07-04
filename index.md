@@ -33,11 +33,13 @@ title: Home
     {% endfor %}
   </div>
   <p>
-    My research focuses on mathematical modeling and algorithm design for complex
-    operational systems, with particular emphasis on scheduling, rescheduling, seru
-    production systems, and exact optimization algorithms. I am also interested in
-    combining evolutionary computation and learning-based methods with operations
-    research models to support intelligent production and decision systems.
+    My research focuses on combinatorial optimization problems in production and
+    scheduling, including unrelated parallel machine scheduling and operational
+    optimization for seru production systems. I am particularly interested in the
+    design of exact algorithms such as branch-price-and-cut and Benders
+    decomposition, artificial intelligence algorithms such as graph neural networks
+    and deep reinforcement learning, AI-driven exact optimization, and large-scale
+    exact-solution-guided deep reinforcement learning.
   </p>
 </section>
 
