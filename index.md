@@ -46,11 +46,11 @@ title: Home
     <h2>Recent Publications</h2>
     <ul class="item-list">
       <li>
-        <div class="publication-heading"><strong class="publication-title">An exact branch-price-and-cut algorithm for the unrelated parallel machine scheduling problem.</strong> <span class="pub-badges"><span class="pub-badge">同等贡献</span><span class="pub-badge">通讯作者</span><span class="pub-badge">UTD 24</span></span></div>
+        <div class="publication-heading"><strong class="publication-title">An exact branch-price-and-cut algorithm for the unrelated parallel machine scheduling problem.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Equal Contribution</span><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge pub-badge--utd">UTD 24</span></span></div>
         <span>Yu, Yang; <strong>Li, Xiaolong</strong>; Baldacci, Roberto; Wu, Zhiqiao; Sun, Wei; Tang, Jiafu; Zhu, Han. <em>INFORMS Journal on Computing</em>, 2026.</span>
       </li>
       <li>
-        <div class="publication-heading"><strong class="publication-title">Evolve-learn-adjust for seru production system.</strong> <span class="pub-badges"><span class="pub-badge">同等贡献</span><span class="pub-badge">通讯作者</span><span class="pub-badge">ABS 3</span></span></div>
+        <div class="publication-heading"><strong class="publication-title">Evolve-learn-adjust for seru production system.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Equal Contribution</span><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge pub-badge--abs">ABS 3</span></span></div>
         <span>Zhang, Zhecong; Yu, Yang; <strong>Li, Xiaolong</strong>; Huang, Yutong; Wu, Zhiqiao; Meng, Runshi. <em>International Journal of Production Research</em>, 2026.</span>
       </li>
     </ul>

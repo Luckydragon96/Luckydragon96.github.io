@@ -233,11 +233,16 @@ p {
 }
 
 .publication-heading {
-  display: block;
-  margin-bottom: 4px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 6px;
 }
 
 .publication-title {
+  flex: 1 1 520px;
+  min-width: min(100%, 260px);
   font-weight: 800;
 }
 
@@ -264,24 +269,48 @@ p {
 }
 .pub-badges {
   display: inline-flex;
+  flex: 0 1 auto;
   flex-wrap: wrap;
   gap: 6px;
-  margin-left: 8px;
-  vertical-align: 2px;
+  padding-top: 1px;
 }
 
 .pub-badge {
   display: inline-flex;
   align-items: center;
   min-height: 22px;
-  border: 1px solid var(--line);
+  border: 1px solid rgba(8, 79, 75, 0.16);
   border-radius: 999px;
-  background: var(--accent-soft);
+  background: #eef7f4;
   color: var(--accent-strong);
   padding: 2px 8px;
   font-size: 12px;
   font-weight: 800;
   line-height: 1.3;
+  white-space: nowrap;
+}
+
+.pub-badge--role {
+  border-color: rgba(173, 123, 38, 0.28);
+  background: #fff5df;
+  color: #7a5314;
+}
+
+.pub-badge--utd {
+  border-color: rgba(11, 110, 105, 0.28);
+  background: #e4f3ee;
+}
+
+.pub-badge--abs {
+  border-color: rgba(54, 90, 142, 0.24);
+  background: #edf3fb;
+  color: #27456f;
+}
+
+.pub-badge--jcr {
+  border-color: rgba(117, 74, 126, 0.24);
+  background: #f4eef8;
+  color: #5f3a68;
 }
 
 .publication-links {
