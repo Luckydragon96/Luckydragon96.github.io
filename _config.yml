@@ -16,10 +16,12 @@ author:
   linkedin: ""
 
 research_interests:
-  - Operations Research
-  - Optimization
-  - Machine Learning
-  - Decision Analytics
+  - Operations Research and Management Science
+  - Scheduling and Rescheduling
+  - Exact Optimization Algorithms
+  - Branch-Price-and-Cut
+  - Seru Production Systems
+  - Evolutionary and Learning-based Optimization
 
 markdown: kramdown
 permalink: pretty

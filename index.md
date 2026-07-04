@@ -33,10 +33,11 @@ title: Home
     {% endfor %}
   </div>
   <p>
-    My current work focuses on mathematical modeling, exact and heuristic algorithms,
-    and data-driven decision support for complex operational systems. I am especially
-    interested in problems where rigorous optimization methods meet practical
-    industrial constraints.
+    My research focuses on mathematical modeling and algorithm design for complex
+    operational systems, with particular emphasis on scheduling, rescheduling, seru
+    production systems, and exact optimization algorithms. I am also interested in
+    combining evolutionary computation and learning-based methods with operations
+    research models to support intelligent production and decision systems.
   </p>
 </section>
 
@@ -63,11 +64,23 @@ title: Home
     <ul class="timeline">
       <li>
         <time>2026</time>
-        <span>Started a new research project on optimization and intelligent decision systems.</span>
+        <span>Our paper on exact branch-price-and-cut algorithms for unrelated parallel machine scheduling appeared in <em>INFORMS Journal on Computing</em>.</span>
+      </li>
+      <li>
+        <time>2026</time>
+        <span>Our paper on evolve-learn-adjust methods for seru production systems appeared in <em>International Journal of Production Research</em>.</span>
+      </li>
+      <li>
+        <time>2025.07</time>
+        <span>Joined the School of Economics and Management, Dalian University of Technology, as a postdoctoral researcher.</span>
+      </li>
+      <li>
+        <time>2025.06</time>
+        <span>Received the Ph.D. degree in Control Science and Engineering from Northeastern University.</span>
       </li>
       <li>
         <time>2025</time>
-        <span>Presented recent work at an international operations research conference.</span>
+        <span>Our paper on a hypervolume-based Q-learning cooperative co-evolution algorithm for hybrid seru systems appeared in <em>European Journal of Operational Research</em>.</span>
       </li>
     </ul>
   </article>
