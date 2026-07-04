@@ -16,12 +16,11 @@ author:
   linkedin: ""
 
 research_interests:
-  - Operations Research and Management Science
-  - Scheduling and Rescheduling
-  - Exact Optimization Algorithms
+  - Production and Scheduling
   - Branch-Price-and-Cut
-  - Seru Production Systems
-  - Evolutionary and Learning-based Optimization
+  - Benders Decomposition
+  - Graph Neural Networks
+  - Deep Reinforcement Learning
 
 markdown: kramdown
 permalink: pretty
