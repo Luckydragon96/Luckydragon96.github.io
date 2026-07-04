@@ -46,12 +46,12 @@ title: Home
     <h2>Recent Publications</h2>
     <ul class="item-list">
       <li>
-        <strong>Paper Title on Optimization and Decision Analytics.</strong>
-        <span>Xiaolong Li, Coauthor Name. Journal or Conference, 2026.</span>
+        <strong>An exact branch-price-and-cut algorithm for the unrelated parallel machine scheduling problem.</strong>
+        <span>Yu, Yang; <strong>Li, Xiaolong</strong>; Baldacci, Roberto; Wu, Zhiqiao; Sun, Wei; Tang, Jiafu; Zhu, Han. <em>INFORMS Journal on Computing</em>, 2026.</span>
       </li>
       <li>
-        <strong>Learning-Enhanced Algorithms for Complex Scheduling Problems.</strong>
-        <span>Xiaolong Li, Coauthor Name. Working paper.</span>
+        <strong>Evolve-learn-adjust for seru production system.</strong>
+        <span>Zhang, Zhecong; Yu, Yang; <strong>Li, Xiaolong</strong>; Huang, Yutong; Wu, Zhiqiao; Meng, Runshi. <em>International Journal of Production Research</em>, 2026.</span>
       </li>
     </ul>
     <a class="text-link" href="{{ '/publications/' | relative_url }}">All publications</a>
