@@ -200,6 +200,41 @@ p {
   margin: 18px 0 22px;
 }
 
+.cv-list {
+  display: grid;
+  gap: 22px;
+  margin: 18px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cv-list li {
+  display: grid;
+  grid-template-columns: 130px minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+}
+
+.cv-list time {
+  color: var(--accent-strong);
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+.cv-list strong,
+.cv-list span {
+  display: block;
+}
+
+.cv-list strong {
+  line-height: 1.35;
+}
+
+.cv-list span {
+  color: var(--muted);
+  margin-top: 4px;
+}
 .tag-list span {
   border: 1px solid var(--line);
   border-radius: 999px;
@@ -396,6 +431,10 @@ p {
     font-size: 18px;
   }
 
+  .cv-list li {
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
   .section--grid,
   .project-grid {
     grid-template-columns: 1fr;
