@@ -29,7 +29,7 @@ permalink: /cv/
       </div>
 
       <div class="cv-entry">
-        <div class="cv-date">2015-2019</div>
+        <div class="cv-date">2015.09-2019.06</div>
         <div class="cv-entry__body">
           <strong>B.Eng. in Automation</strong>
           <div class="cv-meta">Qingdao University</div>
