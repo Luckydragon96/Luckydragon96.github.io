@@ -228,8 +228,8 @@ p {
   margin-bottom: 20px;
 }
 
-.item-list strong,
-.publication-list strong {
+.item-list > li > strong,
+.publication-list > li > strong {
   display: block;
 }
 
