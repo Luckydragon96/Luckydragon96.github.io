@@ -113,7 +113,7 @@ permalink: /projects/
         <span class="project-badge project-badge--private">Private</span>
         <span class="project-badge">Java / Python</span>
       </div>
-      <h2>Dynamic UPM Scheduling Solver and Experiments</h2>
+      <h2>Branch-Price-and-Cut Solvers for Dynamic UPM Scheduling</h2>
       <p>A private branch-price-and-cut solver and companion experiment utilities for dynamic unrelated parallel machine scheduling problems.</p>
       <div class="project-meta">Dynamic scheduling &middot; Exact algorithms &middot; Reproducibility</div>
       <div class="project-links">
