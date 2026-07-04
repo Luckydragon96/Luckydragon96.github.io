@@ -101,29 +101,28 @@ permalink: /projects/
       <h2>Branch-Price-and-Cut Solvers for UPM Scheduling</h2>
       <p>Private Java codebases for exact branch-price-and-cut algorithms for unrelated parallel machine scheduling problems, including general, advanced, and experimental solver variants.</p>
       <div class="project-meta">Exact optimization &middot; Branch-price-and-cut &middot; Scheduling</div>
-      <span class="text-link text-link--muted">Code available upon reasonable request</span>
+      <div class="project-links">
+        <a class="text-link" href="https://github.com/Luckydragon96/bpc4upm">bpc4upm</a>
+        <a class="text-link" href="https://github.com/Luckydragon96/bpc4upm_pro">bpc4upm_pro</a>
+        <a class="text-link" href="https://github.com/Luckydragon96/bpc4upm_ultra">bpc4upm_ultra</a>
+        <a class="text-link" href="https://github.com/Luckydragon96/2024.0704">2024.0704</a>
+      </div>
     </article>
 
     <article class="project-card project-card--private">
       <div class="project-card__topline">
         <span class="project-badge project-badge--private">Private</span>
-        <span class="project-badge">Java</span>
+        <span class="project-badge">Java / Python</span>
       </div>
-      <h2>Dynamic UPM Scheduling Solver</h2>
-      <p>A private branch-price-and-cut solver and companion code for dynamic unrelated parallel machine scheduling problems.</p>
-      <div class="project-meta">Dynamic scheduling &middot; Exact algorithms</div>
-      <span class="text-link text-link--muted">Private repository</span>
-    </article>
-
-    <article class="project-card project-card--private">
-      <div class="project-card__topline">
-        <span class="project-badge project-badge--private">Private</span>
-        <span class="project-badge">Python</span>
+      <h2>Dynamic UPM Scheduling Solver and Experiments</h2>
+      <p>A private branch-price-and-cut solver and companion experiment utilities for dynamic unrelated parallel machine scheduling problems.</p>
+      <div class="project-meta">Dynamic scheduling &middot; Exact algorithms &middot; Reproducibility</div>
+      <div class="project-links">
+        <a class="text-link" href="https://github.com/Luckydragon96/bpc4dupm">bpc4dupm</a>
+        <a class="text-link" href="https://github.com/Luckydragon96/dupm_benchmarks">dupm_benchmarks</a>
+        <a class="text-link" href="https://github.com/Luckydragon96/dupm_run_scripts">dupm_run_scripts</a>
+        <a class="text-link" href="https://github.com/Luckydragon96/dupm_experiment_analysis">dupm_experiment_analysis</a>
       </div>
-      <h2>Experiment Analysis and Reproducibility Utilities</h2>
-      <p>Private scripts for experiment analysis, benchmark organization, and batch execution for scheduling and optimization studies.</p>
-      <div class="project-meta">Experiment analysis &middot; Benchmarks &middot; Reproducibility</div>
-      <span class="text-link text-link--muted">Private research infrastructure</span>
     </article>
 
     <article class="project-card project-card--private">
@@ -134,7 +133,23 @@ permalink: /projects/
       <h2>Learning-based Methods for Seru Production Systems</h2>
       <p>Private research code exploring learning-enhanced optimization methods for seru production system planning and scheduling.</p>
       <div class="project-meta">Seru production &middot; Learning-enhanced optimization</div>
-      <span class="text-link text-link--muted">Private repository</span>
+      <div class="project-links">
+        <a class="text-link" href="https://github.com/Luckydragon96/CG-HRL-for-SPS">CG-HRL-for-SPS</a>
+      </div>
+    </article>
+
+    <article class="project-card project-card--private">
+      <div class="project-card__topline">
+        <span class="project-badge project-badge--private">Private</span>
+        <span class="project-badge">Java</span>
+      </div>
+      <h2>Additional Private Optimization Codebases</h2>
+      <p>Private solver prototypes and computational research code for related optimization studies and manuscript development.</p>
+      <div class="project-meta">Optimization algorithms &middot; Computational studies</div>
+      <div class="project-links">
+        <a class="text-link" href="https://github.com/Luckydragon96/Bnc4sps">Bnc4sps</a>
+        <a class="text-link" href="https://github.com/Luckydragon96/cost_of_full_information">cost_of_full_information</a>
+      </div>
     </article>
   </div>
 </section>
