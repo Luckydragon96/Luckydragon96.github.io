@@ -313,6 +313,19 @@ p {
   color: #5f3a68;
 }
 
+
+.doi-link {
+  display: inline-flex;
+  margin-left: 6px;
+  color: var(--accent);
+  font-size: 0.95em;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.doi-link:hover {
+  color: var(--accent-strong);
+}
 .publication-links {
   display: flex;
   gap: 14px;
