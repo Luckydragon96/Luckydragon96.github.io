@@ -5,7 +5,7 @@ title: Home
 
 <section class="hero">
   <div class="hero__portrait">
-    <img src="{{ '/assets/img/profile-placeholder.svg' | relative_url }}" alt="Profile portrait placeholder">
+    <img src="{{ '/assets/img/profile.png' | relative_url }}" alt="Portrait of Xiaolong Li">
   </div>
   <div class="hero__content">
     <p class="eyebrow">{{ site.author.role }}</p>
