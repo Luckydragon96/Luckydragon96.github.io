@@ -22,7 +22,7 @@ title: Home
   </div>
 </section>
 
-<section class="section">
+<section class="section research-section">
   <div class="section__heading">
     <p class="eyebrow">Research</p>
     <h2>Research Interests</h2>
@@ -32,7 +32,7 @@ title: Home
       <span>{{ interest }}</span>
     {% endfor %}
   </div>
-  <p>
+  <p class="research-summary">
     My research focuses on combinatorial optimization problems in production and
     scheduling, including unrelated parallel machine scheduling and operational
     optimization for seru production systems. I am particularly interested in the
