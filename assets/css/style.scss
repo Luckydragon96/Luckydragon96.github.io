@@ -200,38 +200,94 @@ p {
   margin: 18px 0 22px;
 }
 
-.cv-list {
+.cv-grid {
   display: grid;
-  gap: 22px;
-  margin: 18px 0 0;
-  padding: 0;
-  list-style: none;
-}
-
-.cv-list li {
-  display: grid;
-  grid-template-columns: 130px minmax(0, 1fr);
-  gap: 18px;
+  grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr);
+  gap: 28px;
   align-items: start;
 }
 
-.cv-list time {
-  color: var(--accent-strong);
-  font-size: 14px;
-  font-weight: 800;
-  line-height: 1.35;
+.cv-panel {
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--accent);
+  border-radius: 8px;
+  background: var(--surface);
+  padding: 28px;
+  box-shadow: var(--shadow);
 }
 
-.cv-list strong,
-.cv-list span {
+.cv-panel__header {
+  margin-bottom: 22px;
+}
+
+.cv-list {
+  display: grid;
+  gap: 20px;
+}
+
+.cv-entry {
+  position: relative;
+  display: grid;
+  grid-template-columns: 132px minmax(0, 1fr);
+  gap: 20px;
+  padding-left: 18px;
+}
+
+.cv-entry::before {
+  content: "";
+  position: absolute;
+  top: 6px;
+  bottom: -20px;
+  left: 3px;
+  width: 2px;
+  background: var(--line);
+}
+
+.cv-entry:last-child::before {
+  bottom: calc(100% - 18px);
+}
+
+.cv-entry::after {
+  content: "";
+  position: absolute;
+  top: 6px;
+  left: -2px;
+  width: 12px;
+  height: 12px;
+  border: 3px solid var(--accent);
+  border-radius: 50%;
+  background: var(--surface);
+}
+
+.cv-date {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  min-height: 30px;
+  border: 1px solid rgba(11, 110, 105, 0.22);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  padding: 4px 10px;
+  font-size: 13px;
+  font-weight: 850;
+  line-height: 1.25;
+  white-space: nowrap;
+}
+
+.cv-entry__body strong,
+.cv-entry__body span {
   display: block;
 }
 
-.cv-list strong {
-  line-height: 1.35;
+.cv-entry__body strong {
+  color: var(--ink);
+  font-size: 18px;
+  line-height: 1.3;
 }
 
-.cv-list span {
+.cv-entry__body span {
   color: var(--muted);
   margin-top: 4px;
 }
@@ -431,10 +487,19 @@ p {
     font-size: 18px;
   }
 
-  .cv-list li {
+  .cv-grid {
     grid-template-columns: 1fr;
-    gap: 6px;
   }
+
+  .cv-panel {
+    padding: 22px;
+  }
+
+  .cv-entry {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
   .section--grid,
   .project-grid {
     grid-template-columns: 1fr;

@@ -10,38 +10,51 @@ permalink: /cv/
   <p>A concise overview of education, appointments, awards, and service.</p>
 </section>
 
-<section class="section section--grid">
-  <article>
-    <h2>Education</h2>
-    <ul class="cv-list">
-      <li>
-        <time>2021.09-2025.06</time>
-        <div>
+<section class="section cv-grid">
+  <article class="cv-panel">
+    <div class="cv-panel__header">
+      <p class="eyebrow">Academic Background</p>
+      <h2>Education</h2>
+    </div>
+
+    <div class="cv-list">
+      <div class="cv-entry">
+        <div class="cv-date">2021.09-2025.06</div>
+        <div class="cv-entry__body">
           <strong>Ph.D. in Control Science and Engineering</strong>
-          <span>Northeastern University, Shenyang, China</span>
+          <span>Northeastern University</span>
+          <span>Shenyang, China</span>
           <span>Advisor: Prof. Yang Yu</span>
         </div>
-      </li>
-      <li>
-        <time>2015-2019</time>
-        <div>
+      </div>
+
+      <div class="cv-entry">
+        <div class="cv-date">2015-2019</div>
+        <div class="cv-entry__body">
           <strong>B.Eng. in Automation</strong>
-          <span>Qingdao University, Qingdao, China</span>
+          <span>Qingdao University</span>
+          <span>Qingdao, China</span>
         </div>
-      </li>
-    </ul>
+      </div>
+    </div>
   </article>
 
-  <article>
-    <h2>Appointments</h2>
-    <ul class="cv-list">
-      <li>
-        <time>2025.07-present</time>
-        <div>
+  <article class="cv-panel">
+    <div class="cv-panel__header">
+      <p class="eyebrow">Professional Experience</p>
+      <h2>Appointments</h2>
+    </div>
+
+    <div class="cv-list">
+      <div class="cv-entry">
+        <div class="cv-date">2025.07-present</div>
+        <div class="cv-entry__body">
           <strong>Postdoctoral Researcher</strong>
-          <span>School of Economics and Management, Dalian University of Technology, Dalian, China</span>
+          <span>School of Economics and Management</span>
+          <span>Dalian University of Technology</span>
+          <span>Dalian, China</span>
         </div>
-      </li>
-    </ul>
+      </div>
+    </div>
   </article>
 </section>
