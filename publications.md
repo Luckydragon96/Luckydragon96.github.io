@@ -20,17 +20,17 @@ permalink: /publications/
       Submitted to <em>European Journal of Operational Research</em> on <time datetime="2026-11-05">November 5, 2026</time>.
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Rolling-Horizon Branch-Price-and-Cut for Dynamic Unrelated Parallel Machine Rescheduling under Bounded Disruption Cost.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Under Review</span><span class="pub-badge pub-badge--utd">UTD 24</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Rolling-horizon branch-price-and-cut for dynamic unrelated parallel machine rescheduling under bounded disruption cost.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Under Review</span><span class="pub-badge pub-badge--utd">UTD 24</span></span></div>
       <strong>Li, Xiaolong</strong>; Baldacci, Roberto; Wu, Zhiqiao; Lu, Bo; Yu, Yang; Zhang, Yu; Tang, Jiafu; Zhu, Han; Zhou, Lin.
       Under review at <em>INFORMS Journal on Computing</em>, 2026.
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Extract-Then-Accelerate for seru production system.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Equal Contribution</span><span class="pub-badge">Major Revision</span><span class="pub-badge pub-badge--abs">ABS 3</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Extract-then-accelerate for seru production system.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Equal Contribution</span><span class="pub-badge">Major Revision</span><span class="pub-badge pub-badge--abs">ABS 3</span></span></div>
       Yuan, Shuhua; Yu, Yang; <strong>Li, Xiaolong</strong>; Zhang, Zhecong; Hou, Fuming; Ren, Yuhong.
       Major revision at <em>IISE Transactions</em>, 2026.
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Novel Formulation and Logic-Based Benders Decomposition for Seru Production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge">Major Revision</span><span class="pub-badge pub-badge--abs">ABS 4</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Novel formulation and logic-based Benders decomposition for seru production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge">Major Revision</span><span class="pub-badge pub-badge--abs">ABS 4</span></span></div>
       Yu, Yang; Meng, Runshi; <strong>Li, Xiaolong</strong>; Zhang, Zhecong; Xu, Mengqiao; Ren, Yuhong.
       Major revision at <em>European Journal of Operational Research</em>, 2026.
     </li>
@@ -41,7 +41,7 @@ permalink: /publications/
   <h2>Working Papers</h2>
   <ol class="publication-list">
     <li>
-      <div class="publication-heading"><strong class="publication-title">Learn to Price in Branch-Price-and-Cut Algorithm for Parallel Machine Scheduling Problem.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Working Paper</span><span class="pub-badge pub-badge--utd">UTD 24</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Learn to price in branch-price-and-cut algorithm for parallel machine scheduling problem.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Working Paper</span><span class="pub-badge pub-badge--utd">UTD 24</span></span></div>
       <strong>Li, Xiaolong</strong>; Baldacci, Roberto; Wu, Zhiqiao; Yu, Yang (corresponding author); Tang, Jiafu; Zhu, Han.
       <div class="publication-venue">Target journal: <em>INFORMS Journal on Computing</em>.</div>
     </li>
@@ -72,7 +72,7 @@ permalink: /publications/
       <em>Expert Systems with Applications</em>, 238, 121993, 2024. <a class="doi-link" href="https://doi.org/10.1016/j.eswa.2023.121993">DOI: 10.1016/j.eswa.2023.121993</a>
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">A two-stage stochastic programming model and parallel Master-Slave adaptive GA for flexible Seru system formation.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--abs">ABS 3</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">A two-stage stochastic programming model and parallel master-slave adaptive GA for flexible seru system formation.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--abs">ABS 3</span></span></div>
       Ren, Yuhong; Tang, Jiafu; Yu, Yang; <strong>Li, Xiaolong</strong>.
       <em>International Journal of Production Research</em>, 62(4), 1144-1161, 2024. <a class="doi-link" href="https://doi.org/10.1080/00207543.2023.2177087">DOI: 10.1080/00207543.2023.2177087</a>
     </li>
@@ -82,7 +82,7 @@ permalink: /publications/
       <em>Computers &amp; Operations Research</em>, 160, 106048, 2023. <a class="doi-link" href="https://doi.org/10.1016/j.cor.2022.106048">DOI: 10.1016/j.cor.2022.106048</a>
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Multi-objective cooperative coevolution algorithm with a Master-Slave mechanism for Seru Production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge pub-badge--jcr">JCR Q1</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Multi-objective cooperative coevolution algorithm with a master-slave mechanism for seru production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge pub-badge--jcr">JCR Q1</span></span></div>
       <strong>Li, Xiaolong</strong>; Yu, Yang; Huang, Min.
       <em>Applied Soft Computing</em>, 119, 108593, 2022. <a class="doi-link" href="https://doi.org/10.1016/j.asoc.2022.108593">DOI: 10.1016/j.asoc.2022.108593</a>
     </li>

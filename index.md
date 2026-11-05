@@ -70,11 +70,11 @@ title: Home
       </li>
       <li>
         <time datetime="2026-10-03">2026.10.03</time>
-        <span>Our manuscript, "Novel Formulation and Logic-Based Benders Decomposition for Seru Production," received a major revision decision from <em>European Journal of Operational Research</em>.</span>
+        <span>Our manuscript, "Novel formulation and logic-based Benders decomposition for seru production," received a major revision decision from <em>European Journal of Operational Research</em>.</span>
       </li>
       <li>
         <time datetime="2026-09-23">2026.09.23</time>
-        <span>Our manuscript, "Extract-Then-Accelerate for seru production system," received a major revision decision from <em>IISE Transactions</em>.</span>
+        <span>Our manuscript, "Extract-then-accelerate for seru production system," received a major revision decision from <em>IISE Transactions</em>.</span>
       </li>
       <li>
         <time datetime="2026-09-18">2026.09.18</time>
