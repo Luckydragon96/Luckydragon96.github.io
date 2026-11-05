@@ -12,25 +12,25 @@ permalink: /publications/
 
 <section class="section">
   <h2>Recent Manuscripts</h2>
-  <p>Submitted manuscripts, including works under review or revision. These works have not yet been accepted for publication.</p>
+  <p class="section-note">Manuscripts submitted, under review, or in revision.</p>
   <ol class="publication-list">
     <li>
-      <div class="publication-heading"><strong class="publication-title">Joint optimization of formation and scheduling in seru production systems: A contrastive-guided hierarchical deep reinforcement learning approach.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge">Submitted to Journal</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Joint optimization of formation and scheduling in seru production systems: A contrastive-guided hierarchical deep reinforcement learning approach.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge">Submitted to Journal</span><span class="pub-badge pub-badge--abs">ABS 4</span></span></div>
       Yu, Yang; Zhang, Zhecong; Jin, Zixiang; <strong>Li, Xiaolong</strong>.
       Submitted to <em>European Journal of Operational Research</em> on <time datetime="2026-11-05">November 5, 2026</time>.
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Rolling-Horizon Branch-Price-and-Cut for Dynamic Unrelated Parallel Machine Rescheduling under Bounded Disruption Cost.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Under Review</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Rolling-Horizon Branch-Price-and-Cut for Dynamic Unrelated Parallel Machine Rescheduling under Bounded Disruption Cost.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Under Review</span><span class="pub-badge pub-badge--utd">UTD 24</span></span></div>
       <strong>Li, Xiaolong</strong>; Baldacci, Roberto; Wu, Zhiqiao; Lu, Bo; Yu, Yang; Zhang, Yu; Tang, Jiafu; Zhu, Han; Zhou, Lin.
       Under review at <em>INFORMS Journal on Computing</em>, 2026.
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Extract-Then-Accelerate for seru production system.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Equal Contribution</span><span class="pub-badge">Major Revision</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Extract-Then-Accelerate for seru production system.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Equal Contribution</span><span class="pub-badge">Major Revision</span><span class="pub-badge pub-badge--abs">ABS 3</span></span></div>
       Yuan, Shuhua; Yu, Yang; <strong>Li, Xiaolong</strong>; Zhang, Zhecong; Hou, Fuming; Ren, Yuhong.
       Major revision at <em>IISE Transactions</em>, 2026.
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Novel Formulation and Logic-Based Benders Decomposition for Seru Production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge">Major Revision</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Novel Formulation and Logic-Based Benders Decomposition for Seru Production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge">Major Revision</span><span class="pub-badge pub-badge--abs">ABS 4</span></span></div>
       Yu, Yang; Meng, Runshi; <strong>Li, Xiaolong</strong>; Zhang, Zhecong; Xu, Mengqiao; Ren, Yuhong.
       Major revision at <em>European Journal of Operational Research</em>, 2026.
     </li>
@@ -41,8 +41,9 @@ permalink: /publications/
   <h2>Working Papers</h2>
   <ol class="publication-list">
     <li>
-      <div class="publication-heading"><strong class="publication-title">Learn to Price in Branch-Price-and-Cut Algorithm for Parallel Machine Scheduling Problem.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Working Paper</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Learn to Price in Branch-Price-and-Cut Algorithm for Parallel Machine Scheduling Problem.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Working Paper</span><span class="pub-badge pub-badge--utd">UTD 24</span></span></div>
       <strong>Li, Xiaolong</strong>; Baldacci, Roberto; Wu, Zhiqiao; Yu, Yang (corresponding author); Tang, Jiafu; Zhu, Han.
+      <div class="publication-venue">Target journal: <em>INFORMS Journal on Computing</em>.</div>
     </li>
   </ol>
 </section>
