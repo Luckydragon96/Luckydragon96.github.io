@@ -531,6 +531,26 @@ p {
   background: linear-gradient(180deg, #ffffff 0%, #fffdf7 100%);
 }
 
+.funding-grid {
+  padding-top: 0;
+}
+
+.funding-title {
+  margin: 0;
+  font-size: 21px;
+  line-height: 1.4;
+}
+
+.funding-original {
+  margin: 12px 0 18px;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.funding-program {
+  margin: 0;
+}
+
 .text-link--muted {
   color: var(--muted);
   cursor: default;

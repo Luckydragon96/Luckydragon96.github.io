@@ -7,7 +7,38 @@ permalink: /projects/
 <section class="page-header">
   <p class="eyebrow">Research and Code</p>
   <h1>Projects</h1>
-  <p>Selected open repositories and private research codebases related to scheduling, seru production systems, and exact optimization algorithms.</p>
+  <p>Funded research projects, open repositories, and research codebases on scheduling, seru production systems, and exact optimization algorithms.</p>
+</section>
+
+<section class="project-section">
+  <div class="project-section__heading">
+    <p class="eyebrow">Research Funding</p>
+    <h2>Projects as Principal Investigator</h2>
+  </div>
+
+  <div class="project-grid funding-grid">
+    <article class="project-card">
+      <div class="project-card__topline">
+        <span class="project-badge project-badge--public">Principal Investigator</span>
+        <span class="project-badge"><time datetime="2025-07">2025.07</time>&ndash;<time datetime="2027-06">2027.06</time></span>
+      </div>
+      <h3 class="funding-title">Joint optimization of seru formation and order scheduling: Exact algorithms and applications driven by advanced AI</h3>
+      <p class="funding-original" lang="zh-CN">赛汝生产系统构建与订单调度协同优化：前沿AI技术驱动的精确算法及应用</p>
+      <p class="funding-program"><strong>China Postdoctoral Science Foundation</strong><br>General Program (79th batch)<br><span lang="zh-CN">中国博士后科学基金第79批面上资助</span></p>
+      <div class="project-meta">Grant No. 2026M790826</div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-card__topline">
+        <span class="project-badge project-badge--public">Principal Investigator</span>
+        <span class="project-badge"><time datetime="2025-07">2025.07</time>&ndash;<time datetime="2027-06">2027.06</time></span>
+      </div>
+      <h3 class="funding-title">Joint optimization of seru formation and order scheduling through the integration of artificial intelligence and exact algorithms</h3>
+      <p class="funding-original" lang="zh-CN">人工智能与精确算法融合驱动的赛汝生产系统构建—订单调度协同优化研究</p>
+      <p class="funding-program"><strong>Postdoctoral Fellowship Program of China Postdoctoral Science Foundation</strong><br><span lang="zh-CN">国家资助博士后研究人员计划（B、C档）</span></p>
+      <div class="project-meta">Grant No. GZC20260417</div>
+    </article>
+  </div>
 </section>
 
 <section class="project-section">
