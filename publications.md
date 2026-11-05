@@ -7,7 +7,29 @@ permalink: /publications/
 <section class="page-header">
   <p class="eyebrow">Research Output</p>
   <h1>Publications</h1>
-  <p>Journal articles on scheduling, seru production systems, and optimization algorithms.</p>
+  <p>Journal articles and recent manuscripts on scheduling, seru production systems, and optimization algorithms.</p>
+</section>
+
+<section class="section">
+  <h2>Recent Manuscripts</h2>
+  <p>Manuscripts under review or revision. These works have not yet been accepted for publication.</p>
+  <ol class="publication-list">
+    <li>
+      <div class="publication-heading"><strong class="publication-title">Rolling-Horizon Branch-Price-and-Cut for Dynamic Unrelated Parallel Machine Rescheduling under Bounded Disruption Cost.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Under Review</span></span></div>
+      <strong>Li, Xiaolong</strong>; Baldacci, Roberto; Wu, Zhiqiao; Lu, Bo; Yu, Yang; Zhang, Yu; Tang, Jiafu; Zhu, Han; Zhou, Lin.
+      Under review at <em>INFORMS Journal on Computing</em>, 2026.
+    </li>
+    <li>
+      <div class="publication-heading"><strong class="publication-title">Extract-Then-Accelerate for seru production system.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Co-first Author</span><span class="pub-badge">Major Revision</span></span></div>
+      Yuan, Shuhua; Yu, Yang; <strong>Li, Xiaolong</strong>; Zhang, Zhecong; Hou, Fuming; Ren, Yuhong.
+      Major revision at <em>IISE Transactions</em>, 2026.
+    </li>
+    <li>
+      <div class="publication-heading"><strong class="publication-title">Novel Formulation and Logic-Based Benders Decomposition for Seru Production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge">Major Revision</span></span></div>
+      Yu, Yang; Meng, Runshi; <strong>Li, Xiaolong</strong>; Zhang, Zhecong; Xu, Mengqiao; Ren, Yuhong.
+      Major revision at <em>European Journal of Operational Research</em>, 2026.
+    </li>
+  </ol>
 </section>
 
 <section class="section">
