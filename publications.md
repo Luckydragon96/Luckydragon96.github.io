@@ -7,7 +7,7 @@ permalink: /publications/
 <section class="page-header">
   <p class="eyebrow">Research Output</p>
   <h1>Publications</h1>
-  <p>Journal articles and recent manuscripts on scheduling, seru production systems, and optimization algorithms.</p>
+  <p>Journal articles, submitted manuscripts, and working papers on scheduling, seru production systems, and optimization algorithms.</p>
 </section>
 
 <section class="section">
@@ -33,6 +33,16 @@ permalink: /publications/
       <div class="publication-heading"><strong class="publication-title">Novel Formulation and Logic-Based Benders Decomposition for Seru Production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge">Major Revision</span></span></div>
       Yu, Yang; Meng, Runshi; <strong>Li, Xiaolong</strong>; Zhang, Zhecong; Xu, Mengqiao; Ren, Yuhong.
       Major revision at <em>European Journal of Operational Research</em>, 2026.
+    </li>
+  </ol>
+</section>
+
+<section class="section">
+  <h2>Working Papers</h2>
+  <ol class="publication-list">
+    <li>
+      <div class="publication-heading"><strong class="publication-title">Learn to Price in Branch-Price-and-Cut Algorithm for Parallel Machine Scheduling Problem.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Working Paper</span></span></div>
+      <strong>Li, Xiaolong</strong>; Baldacci, Roberto; Wu, Zhiqiao; Yu, Yang (corresponding author); Tang, Jiafu; Zhu, Han.
     </li>
   </ol>
 </section>
