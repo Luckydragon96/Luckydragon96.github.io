@@ -12,8 +12,13 @@ permalink: /publications/
 
 <section class="section">
   <h2>Recent Manuscripts</h2>
-  <p>Manuscripts under review or revision. These works have not yet been accepted for publication.</p>
+  <p>Submitted manuscripts, including works under review or revision. These works have not yet been accepted for publication.</p>
   <ol class="publication-list">
+    <li>
+      <div class="publication-heading"><strong class="publication-title">Joint optimization of formation and scheduling in seru production systems: A contrastive-guided hierarchical deep reinforcement learning approach.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Corresponding Author</span><span class="pub-badge">Submitted to Journal</span></span></div>
+      Yu, Yang; Zhang, Zhecong; Jin, Zixiang; <strong>Li, Xiaolong</strong>.
+      Submitted to <em>European Journal of Operational Research</em> on <time datetime="2026-11-05">November 5, 2026</time>.
+    </li>
     <li>
       <div class="publication-heading"><strong class="publication-title">Rolling-Horizon Branch-Price-and-Cut for Dynamic Unrelated Parallel Machine Rescheduling under Bounded Disruption Cost.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge">Under Review</span></span></div>
       <strong>Li, Xiaolong</strong>; Baldacci, Roberto; Wu, Zhiqiao; Lu, Bo; Yu, Yang; Zhang, Yu; Tang, Jiafu; Zhu, Han; Zhou, Lin.

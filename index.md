@@ -65,6 +65,10 @@ title: Home
     <h2>News</h2>
     <ul class="timeline">
       <li>
+        <time datetime="2026-11-05">2026.11.05</time>
+        <span>Our manuscript on contrastive-guided hierarchical deep reinforcement learning for joint seru formation and scheduling was submitted to <em>European Journal of Operational Research</em>.</span>
+      </li>
+      <li>
         <time datetime="2026-10-03">2026.10.03</time>
         <span>Our manuscript, "Novel Formulation and Logic-Based Benders Decomposition for Seru Production," received a major revision decision from <em>European Journal of Operational Research</em>.</span>
       </li>
