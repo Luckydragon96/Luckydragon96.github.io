@@ -67,7 +67,7 @@ permalink: /publications/
       <em>European Journal of Operational Research</em>, 324(3), 839-854, 2025. <a class="doi-link" href="https://doi.org/10.1016/j.ejor.2025.02.025">DOI: 10.1016/j.ejor.2025.02.025</a>
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Parallel dynamic NSGA-II with multi-population search for rescheduling of seru production considering schedule changes under different dynamic events.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--jcr">JCR Q1</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Parallel dynamic NSGA-II with multi-population search for rescheduling of seru production considering schedule changes under different dynamic events.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge pub-badge--jcr">JCR Q1</span></span></div>
       <strong>Li, Xiaolong</strong>; Zhang, Zhecong; Sun, Wei; Liu, Yang; Tang, Jiafu.
       <em>Expert Systems with Applications</em>, 238, 121993, 2024. <a class="doi-link" href="https://doi.org/10.1016/j.eswa.2023.121993">DOI: 10.1016/j.eswa.2023.121993</a>
     </li>
@@ -77,12 +77,12 @@ permalink: /publications/
       <em>International Journal of Production Research</em>, 62(4), 1144-1161, 2024. <a class="doi-link" href="https://doi.org/10.1080/00207543.2023.2177087">DOI: 10.1080/00207543.2023.2177087</a>
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Reducing tardy batches by seru production: Model, exact solution, cooperative coevolution solution, and insights.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--abs">ABS 3</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Reducing tardy batches by seru production: Model, exact solution, cooperative coevolution solution, and insights.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge pub-badge--abs">ABS 3</span></span></div>
       <strong>Li, Xiaolong</strong>; Yu, Yang; Sun, Wei; Tang, Jiafu.
       <em>Computers &amp; Operations Research</em>, 160, 106048, 2023. <a class="doi-link" href="https://doi.org/10.1016/j.cor.2022.106048">DOI: 10.1016/j.cor.2022.106048</a>
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Multi-objective cooperative coevolution algorithm with a Master-Slave mechanism for Seru Production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--jcr">JCR Q1</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Multi-objective cooperative coevolution algorithm with a Master-Slave mechanism for Seru Production.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">First Author</span><span class="pub-badge pub-badge--jcr">JCR Q1</span></span></div>
       <strong>Li, Xiaolong</strong>; Yu, Yang; Huang, Min.
       <em>Applied Soft Computing</em>, 119, 108593, 2022. <a class="doi-link" href="https://doi.org/10.1016/j.asoc.2022.108593">DOI: 10.1016/j.asoc.2022.108593</a>
     </li>
