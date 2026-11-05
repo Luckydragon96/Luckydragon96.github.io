@@ -43,6 +43,62 @@ permalink: /projects/
 
 <section class="project-section">
   <div class="project-section__heading">
+    <p class="eyebrow">Collaborative Research</p>
+    <h2>Projects as Participant</h2>
+  </div>
+
+  <div class="project-grid project-grid--wide funding-grid">
+    <article class="project-card">
+      <div class="project-card__topline">
+        <span class="project-badge project-badge--public">Participant</span>
+        <span class="project-badge"><time datetime="2019-01">2019.01</time>&ndash;<time datetime="2023-12">2023.12</time></span>
+      </div>
+      <h3 class="funding-title">Service development and design optimization in Internet of Things environments</h3>
+      <p class="funding-original" lang="zh-CN">物联网环境下的服务开发与设计优化研究</p>
+      <p class="funding-program"><strong>National Natural Science Foundation of China</strong><br>Key Program<br><span lang="zh-CN">国家自然科学基金重点项目</span></p>
+    </article>
+
+    <article class="project-card">
+      <div class="project-card__topline">
+        <span class="project-badge project-badge--public">Participant</span>
+        <span class="project-badge"><time datetime="2022-01">2022.01</time>&ndash;<time datetime="2026-12">2026.12</time></span>
+      </div>
+      <h3 class="funding-title">Exact algorithms for medium- and large-scale dynamic vehicle routing problems</h3>
+      <p class="funding-original" lang="zh-CN">中大规模动态车辆路径问题的精确算法</p>
+      <p class="funding-program"><strong>National Natural Science Foundation of China</strong><br>General Program<br><span lang="zh-CN">国家自然科学基金面上项目</span></p>
+    </article>
+
+    <article class="project-card">
+      <div class="project-card__topline">
+        <span class="project-badge project-badge--public">Participant</span>
+        <span class="project-badge"><time datetime="2026-01">2026.01</time>&ndash;<time datetime="2029-12">2029.12</time></span>
+      </div>
+      <h3 class="funding-title">Exact algorithms and applications for large-scale unrelated parallel machine scheduling</h3>
+      <p class="funding-original" lang="zh-CN">大规模非相关并行机调度问题的精确算法及应用</p>
+      <p class="funding-program"><strong>National Natural Science Foundation of China</strong><br>General Program<br><span lang="zh-CN">国家自然科学基金面上项目</span></p>
+    </article>
+  </div>
+</section>
+
+<section class="project-section">
+  <div class="project-section__heading">
+    <p class="eyebrow">Industry Collaboration</p>
+    <h2>University&ndash;Industry Collaboration</h2>
+  </div>
+
+  <article class="project-card">
+    <div class="project-card__topline">
+      <span class="project-badge project-badge--public">Executive Project Lead</span>
+      <span class="project-badge" lang="zh-CN">执行负责人</span>
+    </div>
+    <h3 class="funding-title">Operations research and optimization algorithms for SANY Heavy Machinery</h3>
+    <p class="funding-original" lang="zh-CN">三一重机运筹优化算法校企合作项目</p>
+    <p class="funding-program">Economic benefits in 2024: <strong>over CNY 12 million</strong>.<br><span lang="zh-CN">2024年效益1200余万元。</span></p>
+  </article>
+</section>
+
+<section class="project-section">
+  <div class="project-section__heading">
     <p class="eyebrow">Open Repositories</p>
     <h2>Public Research Code and Data</h2>
   </div>
