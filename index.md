@@ -65,6 +65,18 @@ title: Home
     <h2>News</h2>
     <ul class="timeline">
       <li>
+        <time datetime="2026-10-03">2026.10.03</time>
+        <span>Our manuscript, "Novel Formulation and Logic-Based Benders Decomposition for Seru Production," received a major revision decision from <em>European Journal of Operational Research</em>.</span>
+      </li>
+      <li>
+        <time datetime="2026-09-23">2026.09.23</time>
+        <span>Our manuscript, "Extract-Then-Accelerate for seru production system," received a major revision decision from <em>IISE Transactions</em>.</span>
+      </li>
+      <li>
+        <time datetime="2026-09-18">2026.09.18</time>
+        <span>Our manuscript on rolling-horizon branch-price-and-cut for dynamic unrelated parallel machine rescheduling under bounded disruption cost entered peer review at <em>INFORMS Journal on Computing</em>.</span>
+      </li>
+      <li>
         <time>2026</time>
         <span>Our paper on exact branch-price-and-cut algorithms for unrelated parallel machine scheduling appeared in <em>INFORMS Journal on Computing</em>.</span>
       </li>

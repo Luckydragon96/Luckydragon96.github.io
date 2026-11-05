@@ -20,7 +20,7 @@ permalink: /publications/
       Under review at <em>INFORMS Journal on Computing</em>, 2026.
     </li>
     <li>
-      <div class="publication-heading"><strong class="publication-title">Extract-Then-Accelerate for seru production system.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Co-first Author</span><span class="pub-badge">Major Revision</span></span></div>
+      <div class="publication-heading"><strong class="publication-title">Extract-Then-Accelerate for seru production system.</strong> <span class="pub-badges"><span class="pub-badge pub-badge--role">Equal Contribution</span><span class="pub-badge">Major Revision</span></span></div>
       Yuan, Shuhua; Yu, Yang; <strong>Li, Xiaolong</strong>; Zhang, Zhecong; Hou, Fuming; Ren, Yuhong.
       Major revision at <em>IISE Transactions</em>, 2026.
     </li>
